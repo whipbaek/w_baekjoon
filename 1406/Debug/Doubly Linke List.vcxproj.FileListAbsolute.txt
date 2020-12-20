@@ -1,0 +1,4 @@
+C:\Users\white\Desktop\c++ data struct\Doubly Linke List\Debug\Doubly Linke List.exe
+C:\Users\white\Desktop\c++ data struct\Doubly Linke List\Debug\Doubly Linke List.pdb
+C:\Users\jibae\source\repos\baekjoon_github\Doubly Linke List\Debug\Doubly Linke List.exe
+C:\Users\jibae\source\repos\baekjoon_github\Doubly Linke List\Debug\Doubly Linke List.pdb
